@@ -1,0 +1,8 @@
+flask
+httplib2
+python-dateutil
+requests
+redis
+hiredis
+gevent
+pandas
